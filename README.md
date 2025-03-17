@@ -45,3 +45,15 @@ The project aims to **evaluate the efficiency of different AI search algorithms*
 - ⚠️ **IDS improves DFS performance** but is still not as optimized as CSP.  
 
 ---
+
+## 🚀 Installation, Execution & Performance Benchmarking  
+
+For detailed setup and usage, check:  
+📌 **[Installation Guide](INSTALLATION.md)** – Steps to install dependencies.  
+📌 **[Usage Instructions](USAGE.md)** – How to run the Sudoku solver.  
+📌 **[Performance Benchmarking](PERFORMANCE.md)** – Evaluate algorithm efficiency.  
+
+---
+
+Follow these guides for proper setup and execution. Let me know if you face any issues! 🚀😊
+
