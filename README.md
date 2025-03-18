@@ -46,12 +46,11 @@ The project aims to **evaluate the efficiency of different AI search algorithms*
 
 ---
 
-## 🚀 Installation, Execution & Performance Benchmarking  
+##  Installation, Execution & Performance Benchmarking  
 
 For detailed setup and usage, check:  
-📌 **[Installation Guide](INSTALLATION.md)** – Steps to install dependencies.  
-📌 **[Usage Instructions](USAGE.md)** – How to run the Sudoku solver.  
-📌 **[Performance Benchmarking](PERFORMANCE.md)** – Evaluate algorithm efficiency.  
+ **[Installation Guide](INSTALLATION.md)** – Steps to install dependencies.  
+ **[Usage Instructions](USAGE.md)** – How to run the Sudoku solver.  
 
 ---
 
