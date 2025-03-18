@@ -5,7 +5,7 @@ This guide provides instructions on how to run the **AI-Powered Sudoku Solver** 
 ---
 
 ## **Running the Sudoku Solver GUI**  
-Once you have set up the project, launch the graphical user interface using:  
+Once you have set up the project, launch the graphical user interface using terminal:  
 
 ```bash
 python GUI.py
