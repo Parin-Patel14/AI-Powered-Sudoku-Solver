@@ -28,7 +28,7 @@ The project aims to **evaluate the efficiency of different AI search algorithms*
 
 ---
 
-## 📊 Performance Analysis  
+##  Performance Analysis  
 
 ### **🔹 Algorithm Comparison**
 | Algorithm | Avg Recursive Calls | Execution Time (Seconds) | Strengths | Weaknesses |
@@ -54,5 +54,5 @@ For detailed setup and usage, check:
 
 ---
 
-Follow these guides for proper setup and execution. Let me know if you face any issues! 🚀😊
+Follow these guides for proper setup and execution.
 
