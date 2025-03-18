@@ -1,0 +1,83 @@
+Total recursive calls: 233
+Time taken to solve: 22.04 seconds
+
+Total recursive calls: 434
+Time taken to solve: 42.51 seconds
+
+Total recursive calls: 468
+Time taken to solve: 45.99 seconds
+
+Total recursive calls: 558
+Time taken to solve: 55.20 seconds
+
+Total recursive calls: 613
+Time taken to solve: 60.83 seconds
+
+Total recursive calls: 627
+Time taken to solve: 62.27 seconds
+
+Total recursive calls: 692
+Time taken to solve: 68.88 seconds
+
+Total recursive calls: 706
+Time taken to solve: 70.30 seconds
+
+Total recursive calls: 724
+Time taken to solve: 72.44 seconds
+
+Total recursive calls: 738
+Time taken to solve: 74.10 seconds
+
+Total recursive calls: 767
+Time taken to solve: 77.49 seconds
+
+Total recursive calls: 783
+Time taken to solve: 79.37 seconds
+
+Total recursive calls: 155
+Time taken to solve: 13.87 seconds
+
+Total recursive calls: 136
+Time taken to solve: 11.48 seconds
+
+Total recursive calls: 139
+Time taken to solve: 11.77 seconds
+
+Total recursive calls: 140
+Time taken to solve: 0.00 seconds
+
+Total recursive calls: 248
+Time taken to solve: 22.76 seconds
+
+Total recursive calls: 53
+Time taken to solve: 3.08 seconds
+
+Total recursive calls: 1466
+Time taken to solve: 145.97 seconds
+
+Total recursive calls: 54
+Time taken to solve: 3.18 seconds
+
+Total recursive calls: 391
+Time taken to solve: 37.25 seconds
+
+Total recursive calls: 47
+Time taken to solve: 2.47 seconds
+
+Total recursive calls: 319
+Time taken to solve: 29.82 seconds
+
+Total recursive calls: 68
+Time taken to solve: 4.45 seconds
+
+Total recursive calls: 184
+Time taken to solve: 16.18 seconds
+
+Total recursive calls: 226
+Time taken to solve: 20.43 seconds
+
+Total recursive calls: 237
+Time taken to solve: 21.53 seconds
+
+Total recursive calls: 1143
+Time taken to solve: 113.03 seconds
