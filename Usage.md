@@ -5,7 +5,7 @@ This guide provides instructions on how to run the **AI-Powered Sudoku Solver** 
 ---
 
 ## **Running the Sudoku Solver GUI**  
-Once you have set up the project, launch the graphical user interface using terminal:  
+Once you have set up the project (**refer to [INSTALLATION.md](INSTALLATION.md)** for setup steps), **open a terminal inside the folder where all files of a single algorithm are placed together** (e.g., `BFS/`, `CSP/`). Then, run:  
 
 ```bash
 python GUI.py
