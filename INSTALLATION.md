@@ -4,9 +4,9 @@ This guide provides step-by-step instructions to set up the **AI-Powered Sudoku 
 
 ---
 
-### **Option 1
+## **Option 1: Clone the Entire Repository**
 
-##  Step 1: Clone the Repository  
+###  Step 1: Clone the Repository  
 First, download the project from GitHub by cloning the repository:  
 
 ```bash
@@ -16,9 +16,9 @@ cd AI-Powered-Sudoku-Solver
 
 ---
 
-### **Option 2: Download Files for each Algorithm**  
+## **Option 2: Download Files for each Algorithm**  
 
-##  Step 1: Manual Downlaod 
+###  Step 1: Manual Downlaod 
 
 1. **Manually download** the required files from the repository.  
 2. **Create a new folder** on your system and place all downloaded files of a specific algorithm inside it.
@@ -26,7 +26,7 @@ cd AI-Powered-Sudoku-Solver
 
 ---
 
-##  Step 2: Set Up a Virtual Environment (Optional but Recommended)  
+###  Step 2: Set Up a Virtual Environment (Optional but Recommended)  
 To avoid dependency conflicts, create and activate a virtual environment:  
 
 ```bash
